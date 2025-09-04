@@ -1,3 +1,3 @@
 #!/bin/bash
-scala-cli setup-ide . --scala 3.7.1
+scala-cli setup-ide . --scala 3.7.2
 
